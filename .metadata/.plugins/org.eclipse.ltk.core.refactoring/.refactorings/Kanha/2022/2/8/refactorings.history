@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;name&apos; in &apos;brahm.Maaa.main(...)&apos; to &apos;Fun&apos;&#x0D;&#x0A;- Original project: &apos;Kanha&apos;&#x0D;&#x0A;- Original element: &apos;brahm.Maaa.main(String[]).name&apos;&#x0D;&#x0A;- Renamed element: &apos;name&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;name&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;brahm{Maaa.java[Maaa~main~\[QString;@name!233!247!244!247!I!8388616!false" name="Fun" references="true" stamp="1644766907056" version="1.0"/>
+</session>
